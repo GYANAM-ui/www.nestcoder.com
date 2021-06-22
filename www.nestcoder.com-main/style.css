@@ -1,0 +1,28 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.heading {
+    width: 100%;
+    cursor: default;
+}
+
+.sections_div {
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    background-color: pink;
+    cursor: default;
+}
+
+.sections_div:hover {
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    background-color: gold;
+    cursor: default;
+}
+
+.btn-success {
+    border-radius: 20px;
+}
